@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+main()
 {
 char a[10];
 scanf("%s",a);
